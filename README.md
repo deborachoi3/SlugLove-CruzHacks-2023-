@@ -11,7 +11,7 @@ CruzHacks 2023 Project
 [**Demo Website**](https://sluglove.netlify.app/)
 
 ## Contributors 🤓
-[Debora Choi](https://github.com/deborachoi3)&
+[Debora Choi](https://github.com/deborachoi3) &
 [Jayden Chung](https://github.com/JaydenChung)
 
 ## Features ✨
