@@ -24,7 +24,7 @@ const Hero = ({ offset, factor = 1 }) => (
         <Svg icon="cross" width={16} stroke color="icon_pink" left="28%" top="15%" />
         <Svg icon="circle" width={6} color="icon_darkest" left="75%" top="10%" />
         <Svg icon="upDown" hiddenMobile width={8} color="icon_darkest" left="45%" top="10%" />
-        <Svg icon="heart" width={48} color="icon_red" left="40%" top="10%" />
+        <Svg icon="heart" width={40} color="icon_red" left="40%" top="10%" />
       </UpDownWide>
       <Svg icon="circle" hiddenMobile width={24} color="icon_darker" left="5%" top="70%" />
       <Svg icon="circle" width={6} color="icon_darkest" left="4%" top="20%" />

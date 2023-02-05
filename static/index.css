@@ -4,17 +4,32 @@ html, body {
  
  body {
     font-family: 'Montserrat', sans-serif;
-    background: linear-gradient(180deg, #ffb2e7 0%, #0391F8 100%);
     font-size: 18px;
  }
  
  header {
-    background: #5eb9fe;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
     color:rgb(0, 0, 0);
     padding: 0.8em 0;
     margin-bottom: 2em;
  }
+
+ @keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
  .wrap {
     max-width: 900px;
     margin: 0 auto;
