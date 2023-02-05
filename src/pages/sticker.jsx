@@ -16,45 +16,44 @@ function StickerInventory() {
     return (
         <div className="layout wrap">
             <Card
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSprUgJUzl65Y-xlbabxEaVz2UQHajb598QQw&usqp=CAU"
+                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987759741498430&th=1862130efe19f43e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8cqLV9vr6dxkcRyrqPuUxhB_gUCT8yT2BuVdndX6yvPyAFnh1Cg8IWpvUnKMy4PIfYVnlP0uRNkKerpE3xLJoKjGNJvbs6Wiiq15UTweFpJ7wgmqMRkyeUchw&disp=emb"
                 alt="Slug Life"
-                itemTitle="Slug Life"
+                itemTitle="Flowers 4 U"
                 className="card-a" />
             <Card
-                src="https://ih1.redbubble.net/image.3889163402.5365/st,small,507x507-pad,600x600,f8f8f8.jpg"
+                src="Hackathon-5.jpg"
                 alt="Little Miss"
-                itemTitle="Little Miss *RARE*"
+                itemTitle="SlugLove logo"
                 className="card-b" />
             <Card
-                src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkurTpMSAk1ZZ77ITYJGAbQYp5YZBgmN6Vwg&usqp=CAU"
+                src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXUSFBobQ2CphvDSPoykSR67K1ZaoOhm12YA&usqp=CAU"
                 alt="Pic #3"
-                itemTitle="Pic #3"
+                itemTitle="Blue Heart"
                 className="card-c" />
             <Card
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA70nedNE5fWhAjbfshfHN_n8csSxUB6JZ1g&usqp=CAU"
-        
+                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987663726804383&th=186212f8a32dfd9f&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9spgUZC2aI2jJyjYOgtIOqLvFSp7PO4uPl4hgWq9pF8_k2hzuSjoBPxjbDxDaFQ07dEU-6jUsJAdqGli9aCkPnA4Q88TDLllMgT7QEISq-HYMbfQE1fIZFFwA&disp=emb"
                 alt="Pic #4"
-                itemTitle="Pic #4"
+                itemTitle="Porter Squiggle"
                 className="card-d" />
             <Card
-                src="https://ih1.redbubble.net/image.2276700918.7392/st,small,507x507-pad,600x600,f8f8f8.jpg"
+                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987559371504687&th=186212e0571e7c2f&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-CTLM_qL-1FkRF7VYaXYwcTpCJvlCK4nL8h22Z9yZXcaJ8lGSdGXd0ILQvV_XApthGTp34GE_cx1sSXkwQcVHR1gZ5hayAFWp8031zgfT8VpjgXX_8q-9FaBQ&disp=emb"
                 alt="Backpack Slug"
-                itemTitle="Backpack Slug"
+                itemTitle="Be Mine"
                 className="card-e" />
             <Card
                 src="https://assets.codepen.io/21542/Banana.2x.png"
                 alt="Pic #5"
-                itemTitle="Pic #5"
+                itemTitle="Banana"
                 className="card-f" />
             <Card
                 src="https://assets.codepen.io/21542/Gem.2x.png"
                 alt="Pic #6"
-                itemTitle="Pic #6"
+                itemTitle="Green Diamond"
                 className="card-g" />
             <Card
                 src="https://assets.codepen.io/21542/PurpleRock.2x.png"
                 alt="Purple Rock"
-                itemTitle="Purple Rock"
+                itemTitle="Purple Gemstone"
                 className="card-h" />
         </div>
     );
