@@ -21,7 +21,7 @@ function StickerInventory() {
                 itemTitle="Flowers 4 U"
                 className="card-a" />
             <Card
-                src="Hackathon-5.jpg"
+                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756989306210839520&th=186214770edb6be0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8Uq4tf8Sg-RbfGeOle7QxK00zrItVH17xO4eexhC7w0BIYSllCG3Gj0dQKEu9uFxI9vGzWDJZGuQbFR5_iqPHjx85fzP3LuWWhzWROexutLVYuHtoT9hH1jqk&disp=emb"
                 alt="Little Miss"
                 itemTitle="SlugLove logo"
                 className="card-b" />
