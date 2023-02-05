@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sluglove.netlify.app/">
-    <img alt="Slug" src="deborachoi/downloads/Hackathon-5.jpg" />
+    <img alt="Slug" src="file:///Users/deborachoi/Downloads/Hackathon-5.jpg" />
   </a>
 </p>
 <h1 align="center">
