@@ -16,8 +16,7 @@ function StickerInventory() {
     return (
         <div className="layout wrap">
             <Card
-                src="flower.jpg"
-                alt="Slug Life"
+                src="https://i.ibb.co/C6CtSsX/flower.jpg" alt="flower" border="0"
                 itemTitle="Flowers 4 U"
                 className="card-a" />
             <Card
