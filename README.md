@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://sluglove.netlify.app/">
-    <img src="https://github.com/deborachoi3/gatsby-starter-portfolio-cara/blob/master/Hackathon-5.jpg" width="60" height="30"> >
+    <img src="https://github.com/deborachoi3/gatsby-starter-portfolio-cara/blob/master/Hackathon-5.jpg" width="300" height="200"> 
   </a>
 </p>
 <h1 align="center">
