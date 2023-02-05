@@ -20,3 +20,6 @@ CruzHacks 2023 Project
 - react-spring Parallax Effect
 - CSS Animations on Shapes
 - 4 sections: chat room, sticker inventory, valentines day grams, LoveStop dashboard
+
+## Sources ✨
+- Gatsby Cara Template
