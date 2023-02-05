@@ -2,20 +2,20 @@ html, body {
     height: 100%;
  }
  
- body {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
- }
- 
+.wrap {
+   font-family: 'Montserrat', sans-serif;
+   font-size: 18px;
+}
+
  header {
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;
 	animation: gradient 15s ease infinite;
 	height: 100vh;
-    color:rgb(0, 0, 0);
-    padding: 0.8em 0;
-    margin-bottom: 2em;
+   color:rgb(0, 0, 0);
+   padding: 0.8em 0;
+   margin-bottom: 2em;
  }
 
  @keyframes gradient {

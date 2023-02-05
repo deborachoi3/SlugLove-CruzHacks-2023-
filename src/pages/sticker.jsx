@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../static/index.css"
+import "../../static/sticker.css"
     
 function Card({src, alt, itemTitle, className}) {
     return (
@@ -26,12 +26,13 @@ function StickerInventory() {
                 itemTitle="Little Miss *RARE*"
                 className="card-b" />
             <Card
-                src="https://assets.codepen.io/21542/Shield.4x.png"
+                src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkurTpMSAk1ZZ77ITYJGAbQYp5YZBgmN6Vwg&usqp=CAU"
                 alt="Pic #3"
                 itemTitle="Pic #3"
                 className="card-c" />
             <Card
-                src="https://assets.codepen.io/21542/Hat.2x.png"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA70nedNE5fWhAjbfshfHN_n8csSxUB6JZ1g&usqp=CAU"
+        
                 alt="Pic #4"
                 itemTitle="Pic #4"
                 className="card-d" />
