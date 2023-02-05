@@ -16,12 +16,12 @@ function StickerInventory() {
     return (
         <div className="layout wrap">
             <Card
-                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987759741498430&th=1862130efe19f43e&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8cqLV9vr6dxkcRyrqPuUxhB_gUCT8yT2BuVdndX6yvPyAFnh1Cg8IWpvUnKMy4PIfYVnlP0uRNkKerpE3xLJoKjGNJvbs6Wiiq15UTweFpJ7wgmqMRkyeUchw&disp=emb"
+                src="flower.jpg"
                 alt="Slug Life"
                 itemTitle="Flowers 4 U"
                 className="card-a" />
             <Card
-                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756989306210839520&th=186214770edb6be0&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8Uq4tf8Sg-RbfGeOle7QxK00zrItVH17xO4eexhC7w0BIYSllCG3Gj0dQKEu9uFxI9vGzWDJZGuQbFR5_iqPHjx85fzP3LuWWhzWROexutLVYuHtoT9hH1jqk&disp=emb"
+                src="Hackathon-5.jpg"
                 alt="Little Miss"
                 itemTitle="SlugLove logo"
                 className="card-b" />
@@ -31,12 +31,12 @@ function StickerInventory() {
                 itemTitle="Blue Heart"
                 className="card-c" />
             <Card
-                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987663726804383&th=186212f8a32dfd9f&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9spgUZC2aI2jJyjYOgtIOqLvFSp7PO4uPl4hgWq9pF8_k2hzuSjoBPxjbDxDaFQ07dEU-6jUsJAdqGli9aCkPnA4Q88TDLllMgT7QEISq-HYMbfQE1fIZFFwA&disp=emb"
+                src="squiggle.jpg"
                 alt="Pic #4"
                 itemTitle="Porter Squiggle"
                 className="card-d" />
             <Card
-                src="https://mail.google.com/mail/u/1?ui=2&ik=0f3c72ed7f&attid=0.1.1&permmsgid=msg-f:1756987559371504687&th=186212e0571e7c2f&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-CTLM_qL-1FkRF7VYaXYwcTpCJvlCK4nL8h22Z9yZXcaJ8lGSdGXd0ILQvV_XApthGTp34GE_cx1sSXkwQcVHR1gZ5hayAFWp8031zgfT8VpjgXX_8q-9FaBQ&disp=emb"
+                src="bee.jpg"
                 alt="Backpack Slug"
                 itemTitle="Be Mine"
                 className="card-e" />
